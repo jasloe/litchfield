@@ -1,0 +1,50 @@
+[{
+   "publish" : "true",
+   "digital_object_id" : "BabbitFamilyCollection.S1.F1.I1",
+   "guid" : "1",
+   "file_versions" : [
+      {
+         "xlink_show_attribute" : "embed",
+         "file_format_name" : "tiff",
+         "xlink_actuate_attribute" : "onLoad",
+         "publish" : "true",
+         "use_statement" : "image-master",
+         "file_uri" : "BabbitFamilyCollection_S1_F1_I1.tif"
+      },
+      {
+         "xlink_show_attribute" : "embed",
+         "file_format_name" : "tiff",
+         "xlink_actuate_attribute" : "onLoad",
+         "publish" : "true",
+         "use_statement" : "image-master",
+         "file_uri" : "BabbitFamilyCollection_S1_F1_I1.jpg"
+      }
+   ],
+   "level" : "image",
+   "title" : "BabbitFamilyCollection.S1.F1.I1"
+},
+{
+   "title" : "BabbitFamilyCollection.S1.F1.I2",
+   "file_versions" : [
+      {
+         "file_uri" : "BabbitFamilyCollection_S1_F1_I2.tif",
+         "use_statement" : "image-master",
+         "publish" : "true",
+         "xlink_actuate_attribute" : "onLoad",
+         "file_format_name" : "tiff",
+         "xlink_show_attribute" : "embed"
+      },
+      {
+         "xlink_actuate_attribute" : "onLoad",
+         "publish" : "true",
+         "file_uri" : "BabbitFamilyCollection_S1_F1_I2.jpg",
+         "use_statement" : "image-master",
+         "xlink_show_attribute" : "embed",
+         "file_format_name" : "tiff"
+      }
+   ],
+   "level" : "image",
+   "guid" : "2",
+   "digital_object_id" : "BabbitFamilyCollection.S1.F1.I2",
+   "publish" : "true"
+}]

@@ -1,0 +1,88 @@
+[
+    {
+        "create_time": "2019-11-12T22:10:17Z",
+        "created_by": "admin",
+        "dates": [],
+        "digital_object_id": "BabbitFamilyCollection.S1.F1.I1",
+        "digital_object_type": "still_image",
+        "extents": [],
+        "external_documents": [],
+        "external_ids": [],
+        "file_versions": [
+            {
+                "create_time": "2019-11-12T22:10:17Z",
+                "created_by": "admin",
+                "file_format_name": "tiff",
+                "file_uri": "https://test.tif",
+                "identifier": "48",
+                "is_representative": false,
+                "jsonmodel_type": "file_version",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "publish": true,
+                "system_mtime": "2019-11-12T22:10:17Z",
+                "use_statement": "image-master",
+                "user_mtime": "2019-11-12T22:10:17Z",
+                "xlink_actuate_attribute": "onRequest",
+                "xlink_show_attribute": "embed"
+            },
+            {
+                "create_time": "2019-11-12T22:10:17Z",
+                "created_by": "admin",
+                "file_format_name": "jpeg",
+                "file_uri": "https://test.jpg",
+                "identifier": "49",
+                "is_representative": false,
+                "jsonmodel_type": "file_version",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "publish": true,
+                "system_mtime": "2019-11-12T22:10:17Z",
+                "use_statement": "image-service",
+                "user_mtime": "2019-11-12T22:10:17Z",
+                "xlink_actuate_attribute": "onLoad",
+                "xlink_show_attribute": "embed"
+            }
+        ],
+        "is_slug_auto": false,
+        "jsonmodel_type": "digital_object",
+        "lang_materials": [],
+        "last_modified_by": "admin",
+        "level": "image",
+        "linked_agents": [],
+        "linked_events": [],
+        "linked_instances": [
+            {
+                "ref": "/repositories/2/archival_objects/12693"
+            }
+        ],
+        "lock_version": 3,
+        "notes": [
+            {
+                "content": [
+                    "Ingested with API scripts by Jason Loeffler."
+                ],
+                "jsonmodel_type": "note_digital_object",
+                "label": "Ingestion note",
+                "persistent_id": "6868d4f0f7fcbfe47e60275874740365",
+                "publish": true,
+                "type": "processinfo"
+            }
+        ],
+        "publish": true,
+        "repository": {
+            "ref": "/repositories/2"
+        },
+        "restrictions": false,
+        "rights_statements": [],
+        "subjects": [],
+        "suppressed": false,
+        "system_mtime": "2019-11-12T22:11:14Z",
+        "title": "BabbitFamilyCollection.S1.F1.I1",
+        "tree": {
+            "ref": "/repositories/2/digital_objects/736/tree"
+        },
+        "uri": "/repositories/2/digital_objects/736",
+        "user_mtime": "2019-11-12T22:10:17Z"
+    }
+]

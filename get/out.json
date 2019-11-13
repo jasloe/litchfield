@@ -1,0 +1,169 @@
+[
+    {
+        "ancestors": [
+            {
+                "level": "series",
+                "ref": "/repositories/2/archival_objects/12690"
+            },
+            {
+                "level": "collection",
+                "ref": "/repositories/2/resources/962"
+            }
+        ],
+        "component_id": "Folder 3",
+        "create_time": "2016-04-03T19:37:50Z",
+        "created_by": "admin",
+        "dates": [
+            {
+                "create_time": "2019-11-12T22:11:13Z",
+                "created_by": "admin",
+                "date_type": "single",
+                "expression": "1927",
+                "jsonmodel_type": "date",
+                "label": "created",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "system_mtime": "2019-11-12T22:11:13Z",
+                "user_mtime": "2019-11-12T22:11:13Z"
+            }
+        ],
+        "display_string": "Album, 1927",
+        "extents": [],
+        "external_documents": [],
+        "external_ids": [
+            {
+                "create_time": "2019-11-12T22:11:14Z",
+                "created_by": "admin",
+                "external_id": "13394",
+                "jsonmodel_type": "external_id",
+                "last_modified_by": "admin",
+                "source": "Archon Instance::COLLECTION_CONTENT",
+                "system_mtime": "2019-11-12T22:11:14Z",
+                "user_mtime": "2019-11-12T22:11:14Z"
+            }
+        ],
+        "has_unpublished_ancestor": false,
+        "instances": [
+            {
+                "create_time": "2019-11-12T22:11:13Z",
+                "created_by": "admin",
+                "instance_type": "text",
+                "is_representative": false,
+                "jsonmodel_type": "instance",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "sub_container": {
+                    "create_time": "2019-11-12T22:11:13Z",
+                    "created_by": "admin",
+                    "jsonmodel_type": "sub_container",
+                    "last_modified_by": "admin",
+                    "lock_version": 0,
+                    "system_mtime": "2019-11-12T22:11:13Z",
+                    "top_container": {
+                        "ref": "/repositories/2/top_containers/3790"
+                    },
+                    "user_mtime": "2019-11-12T22:11:13Z"
+                },
+                "system_mtime": "2019-11-12T22:11:13Z",
+                "user_mtime": "2019-11-12T22:11:13Z"
+            },
+            {
+                "create_time": "2019-11-12T22:11:14Z",
+                "created_by": "admin",
+                "digital_object": {
+                    "ref": "/repositories/2/digital_objects/736"
+                },
+                "instance_type": "digital_object",
+                "is_representative": true,
+                "jsonmodel_type": "instance",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "system_mtime": "2019-11-12T22:11:14Z",
+                "user_mtime": "2019-11-12T22:11:14Z"
+            },
+            {
+                "create_time": "2019-11-12T22:11:14Z",
+                "created_by": "admin",
+                "digital_object": {
+                    "ref": "/repositories/2/digital_objects/737"
+                },
+                "instance_type": "digital_object",
+                "is_representative": false,
+                "jsonmodel_type": "instance",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "system_mtime": "2019-11-12T22:11:14Z",
+                "user_mtime": "2019-11-12T22:11:14Z"
+            },
+            {
+                "create_time": "2019-11-12T22:11:14Z",
+                "created_by": "admin",
+                "digital_object": {
+                    "ref": "/repositories/2/digital_objects/738"
+                },
+                "instance_type": "digital_object",
+                "is_representative": false,
+                "jsonmodel_type": "instance",
+                "last_modified_by": "admin",
+                "lock_version": 0,
+                "system_mtime": "2019-11-12T22:11:14Z",
+                "user_mtime": "2019-11-12T22:11:14Z"
+            }
+        ],
+        "is_slug_auto": false,
+        "jsonmodel_type": "archival_object",
+        "lang_materials": [],
+        "last_modified_by": "admin",
+        "level": "file",
+        "linked_agents": [],
+        "linked_events": [],
+        "lock_version": 3,
+        "notes": [
+            {
+                "jsonmodel_type": "note_multipart",
+                "label": "Scope and Contents",
+                "persistent_id": "f67c10ccda607e42b4308dea35c23024",
+                "publish": true,
+                "subnotes": [
+                    {
+                        "content": "Photographs of exterior of Sheldon Tavern and gardens.",
+                        "jsonmodel_type": "note_text",
+                        "publish": true
+                    }
+                ],
+                "type": "scopecontent"
+            }
+        ],
+        "parent": {
+            "ref": "/repositories/2/archival_objects/12690"
+        },
+        "position": 2,
+        "publish": true,
+        "ref_id": "13394",
+        "repository": {
+            "ref": "/repositories/2"
+        },
+        "representative_image": {
+            "file_format_name": "jpeg",
+            "file_uri": "https://test.jpg",
+            "is_representative": false,
+            "jsonmodel_type": "file_version",
+            "lock_version": 0,
+            "publish": true,
+            "use_statement": "image-service",
+            "xlink_actuate_attribute": "onLoad",
+            "xlink_show_attribute": "embed"
+        },
+        "resource": {
+            "ref": "/repositories/2/resources/962"
+        },
+        "restrictions_apply": false,
+        "rights_statements": [],
+        "subjects": [],
+        "suppressed": false,
+        "system_mtime": "2019-11-12T22:11:14Z",
+        "title": "Album",
+        "uri": "/repositories/2/archival_objects/12693",
+        "user_mtime": "2019-11-12T22:11:13Z"
+    }
+]
